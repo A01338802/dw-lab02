@@ -1,3 +1,65 @@
 h1 {
-    color:rebeccapurple;
+    color:darkblue;
+    font-size:xxx-large;
+    margin-top:1px;
+    margin-bottom:1px;
+}
+
+img {
+    margin-bottom:10px;
+}
+
+h2{
+    color:cadetblue;
+    text-decoration: underline dotted;
+
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    align-content:baseline;
+    
+}
+
+section{
+    width: 25%;
+    font-style:oblique;
+}
+
+header, address{
+    align-content: center;
+    justify-content: space-evenly;
+    text-align:center;   
+}
+
+address {
+    margin-bottom: 10px;
+    margin-top: 1px;
+}
+
+table{
+    background-color:coral;
+    width:100%;
+}
+
+th {
+    width: 25%;
+}
+
+footer {
+    text-align:center;
+}
+
+footer,a {
+   background-color:pink;
+}
+
+a {
+    color:coral;
+    font-size:30px;
+}
+
+*{
+    background-color:aliceblue;
 }
