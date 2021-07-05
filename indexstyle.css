@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  nav, aside {
+    float: left;
+    width: 20%;
+    padding: 10px;
+  }
+  
+  .section-container{
+    float: left;
+    width: 60%;
+    padding: 10px;
+  }
+  
+  
+  .container {
+    display: flow-root;
+  }
+  
+  footer {
+      text-align: center;
+      background-color: black;
+      color: white;
+  }
